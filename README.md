@@ -20,9 +20,7 @@ Bio
 
 ### 📊 Stats
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamontiero937&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=lamonteiro937&theme=gruvbox&border_radius=4.5) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamonteiro937)](https://github.com/lamonteiro937/github-readme-stats)
 
 #
 <!--
