@@ -2,11 +2,11 @@
 
 **`Data Scientist (Developer/Math Enthusiast)`**
 
-I'm a self-taught data scientist on a mission to turn raw data into powerful stories and equations into magic. My journey started with a passion for math and quickly evolved into a deep dive into machine learning, where I now unravel the mysteries of numbers and patterns like a data-driven detective. Every dataset is a puzzle, and I’m here to solve it.
+I'm a self-taught data scientist on a mission to turn raw data into powerful stories. My journey started with a passion for math and quickly evolved into a deep dive into machine learning, where I now unravel the mysteries of numbers and patterns like a data-driven detective. Every dataset is a puzzle, and I’m here to solve it.
 
 I’m not just about crunching numbers; I’m a strategic thinker who loves using data to solve real-world problems and drive innovation. Whether I'm building predictive models or analyzing massive datasets, my goal is always the same: to uncover insights and create solutions that matter.
 
-With a love for combinatorics and an endless curiosity, I find joy in the small, intricate details of math while also dreaming big about the bigger picture. And, of course, I’m always on the lookout for my next big challenge, which is why I’m aiming for a doctorate in math—because, let’s face it, I’m not done solving the universe’s equations just yet.
+With a love for combinatorics and an endless curiosity, I find joy in the small intricate details of math while also solving for the bigger picture. And, of course, I’m always on the lookout for my next big challenge, which is why I’m aiming for a doctorate in math—because, let’s face it, I’m not done solving the universe’s equations just yet.
 
 Stay tuned for more data, more math, and maybe even more random thoughts on combinatorics. If you’re into innovation, problem-solving, and seeing the world through a mathematical lens, you’re in the right place!
 
